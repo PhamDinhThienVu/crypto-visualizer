@@ -1,0 +1,2 @@
+# Luôn dùng LF trong repo, Git sẽ tự chuyển khi checkout trên Windows
+* text=auto eol=lf
