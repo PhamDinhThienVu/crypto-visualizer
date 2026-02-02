@@ -1,0 +1,89 @@
+# =========================
+# Node.js / Frontend (React/Vue/TypeScript)
+# =========================
+# Node modules & build outputs
+node_modules/
+dist/
+build/
+frontend/build/
+frontend/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Package managers / cache
+.pnp.*
+.cache/
+.parcel-cache/
+.esbuild/
+.pnpm-store/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.production.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing / coverage
+coverage/
+.nyc_output/
+coverage-final.json
+jest.config.js
+.vitest/
+
+# Storybook
+.storybook/
+storybook-static/
+
+# Node repl / caches
+.node_repl_history
+.eslintcache
+
+# =========================
+# Python / Backend (Flask/FastAPI)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# =========================
+# OS / Misc
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+# OneDrive temp/locks
+~$*
+/OneDriveTemp
+
+# Build artifacts and misc
+*.class
+*.jar
+
+# End of file
+
