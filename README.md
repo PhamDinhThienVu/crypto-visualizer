@@ -19,6 +19,7 @@ This project is not intended for production use or to bypass game security mecha
 - SHA family (hash functions) – planned
 
 ## 📂 Project Structure
+
 crypto-visualizer/
 │
 ├── frontend/              # TypeScript + React/Vue (UI, visualization)
@@ -26,5 +27,6 @@ crypto-visualizer/
 ├── docs/                  # Documentation, walkthroughs
 ├── algorithm_explaination/ # Algorithm theory and notes
 └── README.md               # Main project documentation
+
 
 ## Let's start with docs/walkthrough_project and step by step to improve your own. Good luck.
